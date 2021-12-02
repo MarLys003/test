@@ -1,6 +1,6 @@
 #include "kwadrat.h"	//
 #include <stdio.h>	//
-#include <math.h>
+#include <math.h>	//
 
 void oblicz_kwadrat() {
     float a, wynik;
